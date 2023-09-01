@@ -7,7 +7,7 @@
 #5. Reduce Overfitting 
 #6. NLP + ML/DL
 
-#Data:
+# Data:
 #1. Tweets Dataset
 #2. For practice, other dataset link https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset
 #3. Label is the target  and tweet is the document
